@@ -42,7 +42,7 @@ nav {
 .logo img {
     height: 55px;
     width: 55px;
-    border-radius: 50%;
+    border-radius: 15%;
 }
 
 nav ul {
@@ -80,9 +80,9 @@ nav ul li a:hover {
 }
 
 .model img {
-    width: 110%;
-    height: 110%;
-    border-radius: 30%;
+    width: 115%;
+    height: 115%;
+    border-radius: 15%;
     /* object-fit: contain; */
 }
 
@@ -418,7 +418,7 @@ nav ul li a:hover {
     align-items: center;
     color: #ffffff;
     background-color: #cc8e3c;
-    border-radius: 20px;
+    border-radius: 12px;
     box-shadow: 4px 10px 30px rgba(24, 139, 119, 0.2);
 }
 
@@ -436,10 +436,28 @@ nav ul li a:hover {
     transition: all ease 0.2s;
 }
 
+.linkedin_img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
 
+.github_img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
 
-
-
+.mail_img {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+}
+.telephone_img {
+    position: absolute;
+    width: 27px;
+    height: 27px; 
+}
 
 footer {
     display: flex;
@@ -983,5 +1001,6 @@ nav .menu-btn {
         padding: 0px 0px 0px 0px;
         /* padding: 5px 5px; */
     }
+
 
 }
