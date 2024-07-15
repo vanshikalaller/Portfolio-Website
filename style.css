@@ -124,7 +124,7 @@ nav ul li a:hover {
 }
 
 .portfolio-bttn {
-    width: 35px;
+    width: 100px;
     height: 35px;
     display: flex;
     border: 10px;
@@ -409,7 +409,7 @@ nav ul li a:hover {
 
 
 .c-bttn {
-    width: 35px;
+    width: 100px;
     height: 35px;
     display: flex;
     border: 10px;
@@ -1001,6 +1001,5 @@ nav .menu-btn {
         padding: 0px 0px 0px 0px;
         /* padding: 5px 5px; */
     }
-
-
 }
+
